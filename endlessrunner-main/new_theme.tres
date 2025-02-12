@@ -1,0 +1,27 @@
+[gd_resource type="Theme" load_steps=4 format=3 uid="uid://c20x3v3v7ghfq"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_8bxt8"]
+corner_radius_top_left = 3
+corner_radius_top_right = 3
+corner_radius_bottom_right = 3
+corner_radius_bottom_left = 3
+shadow_size = 3
+shadow_offset = Vector2(0, 3)
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_pwohv"]
+bg_color = Color(8.18223e-07, 0.422669, 0.512813, 1)
+corner_radius_bottom_right = 25
+corner_radius_bottom_left = 25
+shadow_size = 3
+shadow_offset = Vector2(0, 3)
+
+[sub_resource type="SystemFont" id="SystemFont_r3p2e"]
+font_names = PackedStringArray("Blackpast DEMO")
+oversampling = 5.0
+
+[resource]
+default_font_size = 50
+Button/fonts/font = null
+Button/styles/normal = SubResource("StyleBoxFlat_8bxt8")
+Panel/styles/panel = SubResource("StyleBoxFlat_pwohv")
+RichTextLabel/fonts/normal_font = SubResource("SystemFont_r3p2e")
