@@ -1,0 +1,56 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1739403224
+Barrel.gltf::PackedScene::1582043170425995275::1739402561::1739402562::1::::<><>::uid://dm60hnl4thvsg::::res://Barrel_0.png
+bush.blend::PackedScene::6885635900642912770::1739386280::1739386283::1::::<><>::
+coin.blend::PackedScene::5583894618634272106::1739385154::1739385158::1::::<><>::
+Coin.gd::GDScript::-1::1739401800::0::1::::<>Node3D<>::
+Coin.tscn::PackedScene::2608924858689086085::1739397659::0::1::::<><>::res://Coin.gd<>uid://cls46tn2b4nxq::::res://coin.blend
+EndlessRunner.apple-touch-icon.png::CompressedTexture2D::5699852637100306125::1739403208::1739403986::1::::<><>::
+EndlessRunner.icon.png::CompressedTexture2D::2815550926478650353::1739403208::1739403986::1::::<><>::
+EndlessRunner.png::CompressedTexture2D::7800058399453670599::1739403208::1739403986::1::::<><>::
+EventBus.gd::GDScript::-1::1739400485::0::1::::EventBus<>Node<>::
+export_presets.cfg::TextFile::-1::1739403224::0::1::::<><>::
+Grass.blend::PackedScene::8147433915498948111::1739386209::1739386213::1::::<><>::
+GroundTiles.meshlib::MeshLibrary::3174246601145506438::1739398490::0::1::::<><>::
+Human.blend::PackedScene::8989098922262596683::1739377943::1739378352::1::::<><>::
+icon.svg::CompressedTexture2D::3879078760636427636::1739377944::1739378337::1::::<><>::
+Main.gd::GDScript::-1::1739401959::0::1::::<>Node3D<>::
+NewHuman.blend::PackedScene::6884571258580535395::1739377943::1739378352::1::::<><>::
+new_theme.tres::Theme::6720997229769564070::1739401800::0::1::::<><>::
+Obstacle.blend::PackedScene::514521729808369124::1739383676::1739383680::1::::<><>::
+Obstacle.gd::GDScript::-1::1739377943::0::1::::<>Node3D<>::
+Obstacle.tscn::PackedScene::1798595090495614490::1739403094::0::1::::<><>::res://Obstacle.gd<>uid://wsmaw8jbm4cd::::res://Barrel.gltf
+Player.gd::GDScript::-1::1739377943::0::1::::<>CharacterBody3D<>::
+README.md::TextFile::-1::1739377943::0::1::::<><>::
+Barrel_0.png::CompressedTexture2D::8067055011627758854::1739402561::1739402562::1::::<><>::
+RunnerTile.gd::GDScript::-1::1739403094::0::1::::<>Node3D<>::
+RunnerTile.tscn::PackedScene::5993918232098668808::1739403094::0::1::::<><>::res://RunnerTile.gd<>uid://blhvm3xnejjsw::::res://GroundTiles.meshlib<>uid://bdf1u1uyu5m6h::::res://Coin.tscn<>uid://0viulybi1mo5::::res://Obstacle.tscn
+World.gdshader::Shader::-1::1739403094::0::1::::<><>::
+World.tscn::PackedScene::6545040164809115843::1739403094::0::1::::<><>::res://Main.gd<>res://Player.gd<>uid://crnq7s67ibn1y::::res://RunnerTile.tscn<>uid://c5c65aq2grs0b::::res://NewHuman.blend<>uid://dv0yheuex4bvx::::res://SFX/Woosh.wav<>uid://c20x3v3v7ghfq::::res://new_theme.tres<>uid://dteoherd4h3n8::::res://SFX/GameOver.wav<>uid://k6q4a387mvv6::::res://FreeSFX/GameSFX/PickUp/Retro PickUp Coin 04.wav<>uid://bs3b35ncnga0k::::res://web/index.icon.png<>uid://dkocvlux1a5d3::::res://SFX/BGM.mp3<>uid://dnk2n24uw7ijf::::res://FreeSFX/GameSFX/Music/Success/Retro Success Melody 01 - sawtooth lead 1.wav<>res://World.gdshader<>uid://dbvheldh14v8v::::res://SFX/HurtSound.ogg
+::res://FreeSFX/::1739377944
+::res://FreeSFX/GameSFX/::1739377944
+::res://FreeSFX/GameSFX/Music/::1739377944
+::res://FreeSFX/GameSFX/Music/Success/::1739378337
+Retro Success Melody 01 - sawtooth lead 1.wav::AudioStreamWAV::8094024833908937207::1739377944::1739378337::1::::<><>::
+Retro Success Melody 02 - choir soprano.wav::AudioStreamWAV::38608411256916574::1739377944::1739378337::1::::<><>::
+::res://FreeSFX/GameSFX/PickUp/::1739378337
+Retro PickUp 10.wav::AudioStreamWAV::8584829714541089532::1739377944::1739378337::1::::<><>::
+Retro PickUp 18.wav::AudioStreamWAV::6179451612674367820::1739377944::1739378337::1::::<><>::
+Retro PickUp Coin 04.wav::AudioStreamWAV::766907451460834365::1739377944::1739378337::1::::<><>::
+Retro PickUp Coin 07.wav::AudioStreamWAV::571096200585203717::1739377944::1739378337::1::::<><>::
+Retro PickUp Coin StereoUP 04.wav::AudioStreamWAV::80236301056979414::1739377944::1739378337::1::::<><>::
+::res://Game/::1739403224
+EndlessRunner.apple-touch-icon.png::CompressedTexture2D::6319135737756361391::1739403224::1739403986::1::::<><>::
+EndlessRunner.icon.png::CompressedTexture2D::7671750687120460803::1739403224::1739403986::1::::<><>::
+EndlessRunner.png::CompressedTexture2D::7812797848440150344::1739403224::1739403986::1::::<><>::
+::res://SFX/::1739378337
+BGM.mp3::AudioStreamMP3::7890211321406733818::1739377944::1739378337::1::::<><>::
+GameOver.wav::AudioStreamWAV::8501970366204665971::1739377944::1739378337::1::::<><>::
+HurtSound.ogg::AudioStreamOggVorbis::7273235572422798451::1739377944::1739378337::1::::<><>::
+Woosh.wav::AudioStreamWAV::8686307160916315069::1739377944::1739378337::1::::<><>::
+::res://textures/::1739384945
+Image_0.png::CompressedTexture2D::6258232588813686520::1739383679::1739384945::1::::<><>::
+::res://web/::1739378337
+index.apple-touch-icon.png::CompressedTexture2D::625220633540589212::1739377944::1739378337::1::::<><>::
+index.icon.png::CompressedTexture2D::3707734761404902876::1739377944::1739378337::1::::<><>::
+index.png::CompressedTexture2D::8057566525996017596::1739377945::1739378337::1::::<><>::

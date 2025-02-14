@@ -1,0 +1,12 @@
+res://RunnerTile.tscn
+res://GroundTiles.meshlib
+res://World.gdshader
+res://EventBus.gd
+res://Main.gd
+res://Player.gd
+res://Obstacle.gd
+res://Coin.gd
+res://Obstacle.tscn
+res://RunnerTile.gd
+res://World.tscn
+res://new_theme.tres
