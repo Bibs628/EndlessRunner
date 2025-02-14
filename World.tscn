@@ -1,18 +1,17 @@
-[gd_scene load_steps=28 format=3 uid="uid://c0ip4cxu4fw24"]
+[gd_scene load_steps=27 format=3 uid="uid://c0ip4cxu4fw24"]
 
 [ext_resource type="Script" path="res://Main.gd" id="1_hsuqg"]
 [ext_resource type="Script" path="res://Player.gd" id="2_08h6d"]
 [ext_resource type="PackedScene" uid="uid://crnq7s67ibn1y" path="res://RunnerTile.tscn" id="2_ltc0t"]
-[ext_resource type="PackedScene" uid="uid://c5c65aq2grs0b" path="res://NewHuman.blend" id="4_fl7wv"]
-[ext_resource type="AudioStream" uid="uid://dv0yheuex4bvx" path="res://SFX/Woosh.wav" id="5_28bew"]
+[ext_resource type="PackedScene" uid="uid://dxnd8nfg5tyyv" path="res://NewHuman.blend" id="4_fl7wv"]
+[ext_resource type="AudioStream" uid="uid://b2tfbgqd6f6c7" path="res://SFX/Woosh.wav" id="5_28bew"]
 [ext_resource type="Theme" uid="uid://c20x3v3v7ghfq" path="res://new_theme.tres" id="5_hbxlv"]
-[ext_resource type="AudioStream" uid="uid://dteoherd4h3n8" path="res://SFX/GameOver.wav" id="6_boual"]
-[ext_resource type="AudioStream" uid="uid://k6q4a387mvv6" path="res://FreeSFX/GameSFX/PickUp/Retro PickUp Coin 04.wav" id="6_vkilt"]
-[ext_resource type="Texture2D" uid="uid://bs3b35ncnga0k" path="res://web/index.icon.png" id="7_2di35"]
-[ext_resource type="AudioStream" uid="uid://dkocvlux1a5d3" path="res://SFX/BGM.mp3" id="8_hbg0u"]
-[ext_resource type="AudioStream" uid="uid://dnk2n24uw7ijf" path="res://FreeSFX/GameSFX/Music/Success/Retro Success Melody 01 - sawtooth lead 1.wav" id="8_vxq8c"]
+[ext_resource type="AudioStream" uid="uid://bagt6cbndsccg" path="res://SFX/GameOver.wav" id="6_boual"]
+[ext_resource type="AudioStream" uid="uid://dgoqdlo5hevjy" path="res://FreeSFX/GameSFX/PickUp/Retro PickUp Coin 04.wav" id="6_vkilt"]
+[ext_resource type="AudioStream" uid="uid://d3bfdifdbhw50" path="res://SFX/BGM.mp3" id="8_hbg0u"]
+[ext_resource type="AudioStream" uid="uid://cwxvanbmjxvo1" path="res://FreeSFX/GameSFX/Music/Success/Retro Success Melody 01 - sawtooth lead 1.wav" id="8_vxq8c"]
 [ext_resource type="Shader" path="res://World.gdshader" id="9_ps87y"]
-[ext_resource type="AudioStream" uid="uid://dbvheldh14v8v" path="res://SFX/HurtSound.ogg" id="13_ixf47"]
+[ext_resource type="AudioStream" uid="uid://bnspiwrdggvti" path="res://SFX/HurtSound.ogg" id="13_ixf47"]
 
 [sub_resource type="CapsuleShape3D" id="CapsuleShape3D_cd760"]
 height = 1.7
@@ -219,19 +218,16 @@ theme = ExtResource("5_hbxlv")
 [node name="1" type="TextureRect" parent="Control/Panel/HBoxContainer"]
 custom_minimum_size = Vector2(20, 20)
 layout_mode = 2
-texture = ExtResource("7_2di35")
 expand_mode = 2
 
 [node name="2" type="TextureRect" parent="Control/Panel/HBoxContainer"]
 custom_minimum_size = Vector2(20, 20)
 layout_mode = 2
-texture = ExtResource("7_2di35")
 expand_mode = 2
 
 [node name="3" type="TextureRect" parent="Control/Panel/HBoxContainer"]
 custom_minimum_size = Vector2(20, 20)
 layout_mode = 2
-texture = ExtResource("7_2di35")
 expand_mode = 2
 
 [node name="GameOver" type="Panel" parent="Control"]
